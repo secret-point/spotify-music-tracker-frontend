@@ -47,7 +47,7 @@ This React application allows users to search for music track metadata using ISR
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/secret-point/spotify-tracker-frontend.git
+   git clone https://github.com/secret-point/spotify-music-tracker-frontend.git
    cd music-track-metadata-finder
    ```
 2. **Install Dependencies**:
